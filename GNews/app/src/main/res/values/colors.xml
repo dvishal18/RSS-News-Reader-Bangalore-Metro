@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- dark -->
+    <color name="md_cyan_500_primary">#8c2877</color>
+    <!-- light -->
+    <color name="md_purple_50">#8c2877</color>
+    <color name="md_purple_100">#8c2877</color>
+    <color name="md_purple_200">#8c2877</color>
+    <color name="md_purple_300">#8c2877</color>
+    <color name="md_purple_400">#8c2877</color>
+    <!-- dark -->
+    <color name="md_purple_600">#8c2877</color>
+    <color name="md_cyan_700">#8c2877</color>
+    <color name="md_purple_800">#8c2877</color>
+    <color name="md_purple_900">#8c2877</color>
+
+    <!-- light -->
+    <color name="md_purple_A100">#8c2877</color>
+    <color name="md_purple_A200">#8c2877</color>
+    <color name="md_purple_A400">#8c2877</color>
+    <color name="md_purple_A700">#8c2877</color>
+
+    <color name="default_color">#666666</color>
+    <color name="green">#009933</color>
+</resources>
